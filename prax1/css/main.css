@@ -1,0 +1,59 @@
+body {
+    font-family: Verdana;
+    color: #444;
+    background-color: #F3F2FF;
+}
+a {
+    color: #129925;
+    text-decoration: none;
+}
+a:hover, a:active {
+    color: #6D91D9;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table td, table th {
+    padding: 5px;
+    border-left: 1px solid black;
+    text-align: center;
+}
+table th {
+    border-bottom: 1px solid black;
+}
+.header a {
+    font-weight: bold;
+}
+.header h2, .header h3 {
+    text-align: center;
+}
+.navigator li {
+    display: inline;
+    padding: 2px 8px;
+}
+.navigator li.active {
+    background-color: #ECF2DA;
+}
+.navigator li.active a {
+    color: #6D91D9;
+}
+.content {
+    text-align: justify;
+    width: 50%;
+    margin: 20px 30px;
+}
+.navigator ul, .content ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.degrees:after {
+    content: "°";
+}
+.radians:after {
+    content: " rad";
+}
+.gradians:after {
+    content: " grad";
+}

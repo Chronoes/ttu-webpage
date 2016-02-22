@@ -1,0 +1,840 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"r",
+				"rcc	React: class component"
+			],
+			[
+				"File",
+				"FileServer	http.Handler ƒ"
+			],
+			[
+				"Han",
+				"Handle	 ƒ"
+			],
+			[
+				"Pr",
+				"Println	 ƒ"
+			],
+			[
+				"Ha",
+				"HandlerFunc	func(http.ResponseWriter, *http.Request) ʈ"
+			],
+			[
+				"Hand",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"fu",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"Sp",
+				"Sprintf	string ƒ"
+			],
+			[
+				"D",
+				"Destination	string ν"
+			],
+			[
+				"edge",
+				"edge2	color.Color ν"
+			],
+			[
+				"Pa",
+				"Paste	*image.NRGBA ƒ"
+			],
+			[
+				"Des",
+				"DesiredRatio	[2]int ν"
+			],
+			[
+				"H",
+				"HMult	int ν"
+			],
+			[
+				"img",
+				"ImageMod	struct ʈ"
+			],
+			[
+				"Im",
+				"image	 package ρ"
+			],
+			[
+				"im",
+				"image	 package ρ"
+			],
+			[
+				"ima",
+				"ImageData	struct ʈ"
+			],
+			[
+				"h",
+				"HOverflow	int ν"
+			],
+			[
+				"ed",
+				"edge2	error ν"
+			],
+			[
+				"w",
+				"WriteString	n int, err error ƒ"
+			],
+			[
+				"To",
+				"TopLeft	 Ɩ"
+			],
+			[
+				"S",
+				"Sprintf	string ƒ"
+			],
+			[
+				"Wri",
+				"WriteString	n int, err error ƒ"
+			],
+			[
+				"W",
+				"WriteString	n int, err error ƒ"
+			],
+			[
+				"res",
+				"ReadRequest	req *http.Request, err error ƒ"
+			],
+			[
+				"c",
+				"Close	error ƒ"
+			],
+			[
+				"P",
+				"Print	n int, err error ƒ"
+			],
+			[
+				"ha",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"htt",
+				"func http handler	func(rw, req) ʂ"
+			],
+			[
+				"fun",
+				"func	func {...} ʂ"
+			],
+			[
+				"func",
+				"func http handler	func(rw, req) ʂ"
+			],
+			[
+				"handl",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"styl",
+				"style	Attr"
+			],
+			[
+				"he",
+				"height	Attr"
+			],
+			[
+				"wi",
+				"width	Attr"
+			],
+			[
+				"ifr",
+				"iframe	Tag"
+			],
+			[
+				"if",
+				"ifelse	<?php if (…) ?> … <?php else ?> … <?php endif ?>"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"nav",
+				"navigator"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"overf",
+				"overflow-x"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"T",
+				"TypeOf	reflect.Type ƒ"
+			],
+			[
+				"Ca",
+				"CartesianPoint	struct ʈ"
+			],
+			[
+				"Cas",
+				"CartesianPoint	struct ʈ"
+			],
+			[
+				"imag",
+				"imagAxis	int ν"
+			],
+			[
+				"pal",
+				"paletteColor	chan<- *IndexedRGBA ν"
+			],
+			[
+				"HSV",
+				"HSVToRGB	r uint8, g uint8, b uint8 ƒ"
+			],
+			[
+				"RG",
+				"RGBToHSV	h float64, s float64, v float64 ƒ"
+			],
+			[
+				"color",
+				"colorEx	 package ρ"
+			],
+			[
+				"p",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"nu",
+				"NumCPU	int ƒ"
+			],
+			[
+				"GO",
+				"GOMAXPROCS	int ƒ"
+			],
+			[
+				"s",
+				"SetRGBA	 ƒ"
+			],
+			[
+				"man",
+				"MandelbrotBlue	[]IndexedRGBA ν"
+			],
+			[
+				"palet",
+				"paletteColor	 ν"
+			],
+			[
+				"No",
+				"Now	time.Time ƒ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "nav.html",
+			"settings":
+			{
+				"buffer_size": 281,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/GoSublime/GoSublime.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C89.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/GoSublime/GoSublime.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/C89.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 262.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gutter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"line",
+				"Line Ending to all views: Unix"
+			],
+			[
+				"find",
+				"Find: In Project"
+			],
+			[
+				"toggle lin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: React: class component"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"fol",
+				"Project: Add Folder"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"cancel",
+				"GoSublime: Show/Cancel pending tasks"
+			],
+			[
+				"GoSublime: im",
+				"GoSublime: Go to imports section"
+			],
+			[
+				"gosu",
+				"GoSublime: Default Settings"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"pref",
+				"Preferences: Settings - Default"
+			],
+			[
+				"comp",
+				"Compare with..."
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"system",
+				"Build: New Build System"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"packg",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime package",
+				"GoSublime: Add/Remove package"
+			],
+			[
+				"package",
+				"GoSublime: Browse Packages"
+			],
+			[
+				"gos",
+				"GoSublime: Add/Remove package"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/chronoes/Dropbox/Progaming/webpage/prax1"
+	],
+	"file_history":
+	[
+		"/E/!Progemine/webpage/prax2/webpage_prax2.sublime-project",
+		"/P/Gulpfile.js",
+		"/P/src/styles/main.scss",
+		"/P/src/scripts/components/LoginPage.js",
+		"/P/package.json",
+		"/P/server.js",
+		"/P/server/api-router.js",
+		"/P/server/models/User.js",
+		"/P/server/database.js",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/P/static/style.css",
+		"/P/static/bundle.js",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/User/LineEndings.sublime-settings",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/LineEndings/LineEndings.sublime-settings",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript (Babel).sublime-settings",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/P/server/models/test.js",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/User/React Component.sublime-snippet",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Program Files/Sublime Text 3/Packages/Text.sublime-package",
+		"/C/Program Files/Sublime Text 3/sublime_plugin.py",
+		"/C/Program Files/Sublime Text 3/sublime.py",
+		"/E/!Progemine/stokk/src/scripts/components/App.js",
+		"/E/!Progemine/stokk/server.js",
+		"/C/Projects/stokk/server.js",
+		"/C/Projects/stokk/server.go",
+		"/C/Projects/stokk/.gitignore",
+		"/C/Projects/stokk/stokk",
+		"/C/Projects/react-boilerplate/package.json",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/E/!Progemine/webpage/prax1/index.html",
+		"/E/!Progemine/webpage/prax1/format.py",
+		"/E/!Progemine/webpage/prax1/links.txt",
+		"/E/!Progemine/webpage/prax1/get.js",
+		"/E/!Progemine/PHP/xml.php",
+		"/E/!Progemine/webpage/prax1/me.html",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/Progaming/Python3/ttu_proge/Tund_17.py",
+		"/C/Progaming/Python3/ttu_proge/Tund_16.py",
+		"/C/Progaming/Python3/ttu_proge/Tund_19.py",
+		"/C/Progaming/Python3/ttu_proge/Tund_18.py",
+		"/E/!Ylikool/Fyysika/fysa_prax_11.py",
+		"/E/!Ylikool/Side/labor1/Labor 1 aruanne.html",
+		"/E/!Ylikool/Side/labor1/main.css",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/User/Default (Linux).sublime-keymap",
+		"/C/Progaming/Project_Euler/euler_30.clj",
+		"/C/Progaming/C/mandelbrot/main.c",
+		"/C/Progaming/C/mandelbrot/mandelbrot.c",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/User/C Improved.sublime-settings",
+		"/C/Users/Chronoes/AppData/Roaming/Mozilla/Firefox/Profiles/u4b3awb4.default-1439404145216/chrome/userContent.css",
+		"/C/Progaming/C/uva/100.c",
+		"/E/!Progemine/raamatur/xml_lib.php",
+		"/C/Projects/twoots/o2/o2globals.h",
+		"/C/Projects/twoots/keys.h",
+		"/C/Projects/twoots/mainwindow.h",
+		"/C/Projects/twoots/main.cpp",
+		"/E/!Progemine/Stuff/wiki_formatting.py",
+		"/D/Dropbox/Sublime/Daily-Grind.tmTheme",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Installed Packages/Dimmed Color Scheme.sublime-package",
+		"/E/!Progemine/Go/src/github.com/Chronoes/mandelbrot/main.go",
+		"/D/Dropbox/Sublime/Base16 - Color Scheme/base16-default.dark.tmTheme",
+		"/E/!Progemine/raamatur/xml.php",
+		"/E/!Progemine/Go/src/github.com/Chronoes/mandelbrot/make_palette.py",
+		"/E/!Progemine/Go/src/github.com/Chronoes/mandelbrot/profile",
+		"/E/!Progemine/Go/src/code.google.com/p/sadbox/color/color_test.go",
+		"/E/!Progemine/Go/src/github.com/Chronoes/mandelbrot/palette.txt",
+		"/E/23_08_2015_20_23_47.ics",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/Chronoes/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 157.0,
+		"where_history":
+		[
+			"<open files>,<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"react/jsx-quotes",
+			"indent",
+			"close_",
+			"test",
+			"default",
+			"indent",
+			"DesiredRatio",
+			"img",
+			"ImageData",
+			"imgShape",
+			"out",
+			"id",
+			"python",
+			";\n",
+			"students",
+			",\n",
+			"s",
+			"\": ",
+			"\"], ",
+			"s",
+			"\n        students.addStudent(\"Marten\");\n        students.addStudent(\"Marten2\");\n        students.addStudent(\"Marten2\");",
+			"enter",
+			"font",
+			"\"\"",
+			"()",
+			";\n",
+			"\n		",
+			"		;",
+			"f",
+			"Y",
+			"os",
+			"= ",
+			"folder_contents",
+			"\n    ",
+			"        session = WikiSession('http://notcliche.com/rinjinbu/')\n        session.login('Chronoes', '1475963852789Mt')",
+			".\n",
+			" <-",
+			"outPixel",
+			"indexed"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"AspectRatio",
+			"i.Image",
+			"ImageMod",
+			"imgBounds",
+			"errorChan",
+			"class",
+			"code",
+			"Indexed"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "nav.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.9o://C:\\Users\\Chronoes\\AppData\\Roaming\\Sublime Text 3\\Packages\\GoSublime":
+	{
+		"height": 122.0
+	},
+	"output.9o://E:\\!Progemine\\Go\\src\\github.com\\Chronoes\\imagesaver":
+	{
+		"height": 122.0
+	},
+	"output.9o://E:\\!Progemine\\Go\\src\\github.com\\Chronoes\\mandelbrot":
+	{
+		"height": 122.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 98.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 116.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 98.0
+	},
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webpage_prax1.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\!Progemine\\webpage\\prax2\\webpage_prax2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

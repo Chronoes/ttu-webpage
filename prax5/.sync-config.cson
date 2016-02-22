@@ -1,0 +1,18 @@
+remote:
+  host: "dijkstra.cs.ttu.ee"
+  user: "Marten.Tarkin"
+  path: "~/public_html/prax5"
+behaviour:
+  uploadOnSave: true
+  syncDownOnOpen: true
+  forgetConsole: false
+  autoHideConsole: true
+  alwaysSyncAll: false
+option:
+  deleteFiles: false
+  exclude: [
+    ".sync-config.cson"
+    ".git"
+    "tmp"
+    "vendor"
+  ]

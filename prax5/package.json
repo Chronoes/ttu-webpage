@@ -1,0 +1,20 @@
+{
+  "name": "prax5",
+  "version": "1.0.0",
+  "description": "Simple wiki stuff",
+  "main": "wiki.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "chronoes",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "markdown": "^0.5.0",
+    "socket.io": "^1.3.7"
+  }
+}

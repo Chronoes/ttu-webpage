@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Wiki</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/css/bootstrap.min.css">
+</head>
+<body style="margin-top: 10vh;">
+    <div class="container">
+        <div id="content">{{content}}</div>
+        <button class="btn btn-primary" onclick="toggleForm(this)">Edit</button>
+        <hr>
+        <form class="container" id="edit" onsubmit="return sendText()" hidden>
+            <fieldset class="form-group">
+                <textarea class="form-control" id="content-edit" placeholder="Insert markdown text here" required="required" rows="4">{{content-edit}}</textarea>
+            </fieldset>
+            <fieldset class="form-group">
+                <button class="btn btn-primary" type="submit">Submit</button>
+                <button class="btn btn-warning" type="reset">Reset</button>
+                <button class="btn btn-danger" type="button" onclick="clearField()">Clear</button>
+            </fieldset>
+        </form>
+    </div>
+    <script type="text/javascript" src="/socket.io/socket.io.js"></script>
+    <script type="text/javascript">
+        var socket = io.connect();
+
+        var formNode = document.getElementById('edit');
+        var newContentNode = document.getElementById('content-edit');
+        var oldContentNode = document.getElementById('content');
+
+        socket.on('markdown-html', function(content) {
+            oldContentNode.innerHTML = content;
+        });
+
+        socket.on('markdown', function(content) {
+            newContentNode.defaultValue = content;
+        })
+
+        function toggleForm(element) {
+            formNode.hidden = !formNode.hidden;
+            element.innerHTML = formNode.hidden ? 'Edit' : 'Close';
+        }
+
+        function sendText() {
+            if (newContentNode.value) {
+                socket.emit('content-edit', newContentNode.value);
+            }
+            return false;
+        }
+
+        function clearField() {
+            newContentNode.value = '';
+        }
+    </script>
+</body>
+</html>
