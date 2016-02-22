@@ -1,0 +1,10 @@
+[submodule "prax2"]
+    path = prax2
+    url = git://github.com/Chronoes/ttu-webpage-prax2.git
+[submodule "prax3"]
+    path = prax3
+    url = git://github.com/Chronoes/ttu-webpage-prax3.git
+[submodule "prax4"]
+    path = prax4
+    url = git://github.com/Chronoes/ttu-webpage-prax4.git
+
